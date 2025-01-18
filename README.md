@@ -7,7 +7,7 @@ Perlu dibuat dataset yang asli (tidak dummy) dari scraping data di website. Bisa
 Dengan intinya konsep kolom-kolom dalam datasetnya seperti yang dari kaggle, ada tempat wisata sebagai item dan pengguna sebagai user.
 Rencananya fokus 3 daerah spesifik di tempat wisata (JAKARTA, BANDUNG, SURABAYA)
 
-**Notes : Dibawah Ini hanya saran kalau bisa lebih bagus diubah saja agar modelnya tidak overfitting**
+**Notes : Dibawah Ini hanya saran kalau bisa lebih bagus diubah saja agar hasil training modelnya bagus dan logis, tidak overfitting**
 
 **2. Struktur Dataset:**
 
