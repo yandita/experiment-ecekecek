@@ -1,4 +1,5 @@
 **1. Dataset**
+
 Data masih dummy menggunakan dari kaggle dataset
 https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination/code
 
@@ -25,12 +26,14 @@ User : Pengguna
 Item : Destinasi wisata
 
 **3. Sumber Data:**
+
 Google Maps: Mengambil data ulasan, rating, lokasi.
 TripAdvisor: Untuk kategori, harga tiket, fasilitas.
 (Bisa variasi lain yang penting tidak manipulasi)
 
 
 **4. Model Hybrid Content Based Filtering & Deep Matrix Factorization**
+
 Nantinya data tersebut digunakan untuk sistem rekomendasi dengan hybrid 2 model, content based filtering dan deep matrix factorization. karena menggunakan deep learning agar tidak overfitting perlu pake data yang berariatif dan jumlah besar
 (Contoh bisa diliat di folder model)
 
